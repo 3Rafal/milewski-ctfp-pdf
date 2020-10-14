@@ -1,0 +1,3 @@
+type Bool =
+  | False
+  | True
