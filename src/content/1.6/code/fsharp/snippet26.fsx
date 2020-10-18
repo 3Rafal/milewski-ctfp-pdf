@@ -1,3 +1,3 @@
-type 'a maybe =
+type Maybe<'a> =
   | Nothing
   | Just of 'a
