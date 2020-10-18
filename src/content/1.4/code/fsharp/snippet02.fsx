@@ -1,1 +1,1 @@
-'a -> 'b writer
+'a -> 'b Writer
